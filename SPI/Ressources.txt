@@ -1,0 +1,7 @@
+Paiement sans contact ou NFC, est-ce vraiment sans risque ? ~ https://www.youtube.com/watch?v=W1Vtm4B6u60
+HID Reader + Arduino = RFID Card Catcher ~ http://colligomentis.com/2012/05/16/hid-reader-arduino-rfid-card-catcher/
+Proxmark3 T55x7 Cloning Standalone ~ http://colligomentis.com/2012/05/09/proxmark3-t55x7-cloning-standalone/
+ProxClone - Long Range Reader / Cloner ~ http://www.proxclone.com/Long_Range_Cloner.html
+Hacking the NFC credit cards for fun and debit ~ https://readnfccc.googlecode.com/files/hes2012-bt-contactless-payments-insecurity.pdf
+L’incroyable FAIL des cartes bancaires sans contact (NFC) ~ http://korben.info/les-cartes-bancaires-sans-contact-nfc-ne-sont-pas-securisees.html
+NFC : Paycardreadre, appli Androïd pour pirater des cartes bleues ! ~ http://www.meltystyle.fr/nfc-paycardreadre-appli-android-pour-pirater-des-cartes-bleues-a114079.html
