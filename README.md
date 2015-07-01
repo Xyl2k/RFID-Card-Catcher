@@ -1,3 +1,5 @@
+![RFID](https://cloud.githubusercontent.com/assets/8536299/8459378/03f6b900-201d-11e5-82d9-d7288c7a8099.jpg)
+
 # NFC/RFID Card Catcher v0.1
 * Recording NFC/RFID cards for fun and hacking
 * Original idea from a french television program "On n'est plus des pigeons"
